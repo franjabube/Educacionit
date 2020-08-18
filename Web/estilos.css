@@ -1,6 +1,7 @@
 body{
     background-color: #F5F5DB;
-    style="font-family: Ubuntu, Arial, sans-serif;"
+    font-family: Ubuntu, Arial, sans-serif;
+    margin: 0;
 }
 
 nav ul{
